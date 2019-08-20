@@ -18,5 +18,14 @@ Here is our list of commands you can use with our shell:
 |         |              |
 
 ### How to install?
-the installation of this shell is simple you can only clone this repository in the button "clone or donwload" and copies the url of the repository and with the command "git clone" and the url you have the repository of this shell.
+
+to make the installation of this shell we will make:
+```
+* Clone the repository
+* go to the "clone or download" button.
+* Copy the url from the repository.
+* Open the command terminal.
+* Use the command "git clone" followed by the url.
+```
+additionally you give enter later to copy the repository in your command terminal and there they will have this shell.
 
