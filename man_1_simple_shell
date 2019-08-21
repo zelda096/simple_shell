@@ -1,0 +1,18 @@
+.\" Manpage for Simple_Shell
+.\" Contact https://github.com/zelda096/simple_shell/tree/master
+.TH man 8 "21 ago 2019" "0.0" "Simple_Shell Man Page"
+.SH NAME
+Simple_shell \- a command-line interpreter.
+.SH SYNOPSIS
+Simple_shell /bin/sh
+.SH DESCRIPTION
+The shell is both an interactive command language and is used by the operating system.
+.SH OPTION
+These are our shell commands for us to interact with:
+
+.SH SEE ALSO
+in the repository the github is the example of how install shell in the terminal.
+.SH BUGS
+Shell errors temporarily in production.
+.SH AUTHOR
+Miguel Salazar y Deiby Ocampo (https://github.com/zelda096/simple_shell/tree/master).
