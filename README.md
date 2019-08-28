@@ -14,12 +14,12 @@ Here is our list of functions you can use with our shell:
 |--------------------|-----------------------------------------------------------------------------|
 |    shell.c         | Contains all the prototypes of each function we use in the project.         |
 |    builting.c      | Are the functions that compile the commands that are requested in the shell.|
-|    helper.c        | In them are the functions that get the logitude of a string, releases 
-                     | pointers and returns errors if the command line is empty.                   |
+|    helper.c        | In them are the functions that get the logitude of a string, releases       |
+|                    | pointers and returns errors if the command line is empty.                   |
 |    parcing.c       | Analyzes command line looking for arguments converts character into tokens. |
-|    pahtFinder.c    | The functions of this file acts as an interface that finds an index
-                       in the environmental variable and separates the string into directories.
-		       and paths so that they can be parsed and executed by the program.           |
+|    pahtFinder.c    | The functions of this file acts as an interface that finds an index         |
+|                    |  in the environmental variable and separates the string into directories.   |
+|                    |  and paths so that they can be parsed and executed by the program.          |
 |    printnumber.c   | Function that prints a number.                                              |
 |    string.c        | functions that buy strings are copied and printed by a string               |
 
