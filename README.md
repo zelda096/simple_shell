@@ -10,12 +10,12 @@ this shell prototype is similar to the one that comes by default in our linux op
 
 Here is our list of commands you can use with our shell:
 
-| Comands | Descriptions |
-|---------|--------------|
-|   n     |  n  n,n  ,n  |
-|         |              |
-|         |              |
-|         |              |
+|  Files   | Descriptions |
+|----------|--------------|
+|          |  n  n,n  ,n  |
+|          |              |
+|          |              |
+|          |              |
 
 ### How to install?
 
