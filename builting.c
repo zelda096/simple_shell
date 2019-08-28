@@ -32,7 +32,7 @@ void cd_b(char *line)
 	double_free(param_array);
 }
 
-/**holaMundoCreul
+/**
  * env_b - Prints all the environmental variables in the current shell.
  * @line: A string representing the input from the user.
  */
