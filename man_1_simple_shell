@@ -1,14 +1,29 @@
 .\" Manpage for Simple_Shell
 .\" Contact https://github.com/zelda096/simple_shell/tree/master
-.TH man 8 "21 ago 2019" "0.0" "Simple_Shell Man Page"
+.TH man 0 "21 ago 2019" "0.0" "Simple_Shell Man Page"
 .SH NAME
-Simple_shell \- a command-line interpreter.
+Simple_shell \- a command-line interpreter that provides a command line userinterface operating systems.
 .SH SYNOPSIS
-Simple_shell /bin/sh
+Simple_shell [./] [filename]
+name the command [command]
 .SH DESCRIPTION
-The shell is both an interactive command language and is used by the operating system.
+The shell is both an interactive command language and is used by the operating system,
+which obtains the command and divides it into tokens to evaluate which is the command you want to execute.
 .SH OPTION
 These are our shell commands for us to interact with:
+
+.IP ls
+Shows the files that are in the folder.
+.IP cd
+Returns to the main path of our shell.
+.IP cat
+Prints what is inside the file on the screen without entering it.
+.IP pwd
+Shows the route of the directiorio where we are.
+.IP env
+Used to display a list of environment variables.
+.IP exit
+Comes from the shell that we have created.
 
 .SH SEE ALSO
 in the repository the github is the example of how install shell in the terminal.
