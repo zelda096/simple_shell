@@ -13,7 +13,7 @@ int main(__attribute__((unused)) int ac, char **av)
 	size_t sz;
 	int _counter;
 
-	_counter = 0;
+	_counter = ;
 	signal(SIGINT, SIG_IGN);
 	do {
 		_counter++;
