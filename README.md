@@ -38,3 +38,6 @@ to make the installation of this shell we will make:
 ```
 additionally you give enter later to copy the repository in your command terminal and there they will have this shell.
 
+### Authors
+Miguel Salazar 
+Deiby Ocampo
